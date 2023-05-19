@@ -1,4 +1,4 @@
-# open-circuit-detector
+# open circuit detector
 
 The main python code is OC_detector
 
